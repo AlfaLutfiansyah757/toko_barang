@@ -1,6 +1,6 @@
 name: toko_barang
 description: Aplikasi MVC sederhana
-publis_to: 'none'
+publish_to: 'none'
 version: 1.0.0+1
 
 enviroment:
